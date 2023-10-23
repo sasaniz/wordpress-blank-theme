@@ -1,0 +1,302 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-06 17:35+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: block-patterns.php:14
+msgid "Ascendoor Patterns"
+msgstr ""
+
+#: functions.php:131
+msgid "Thank you for installing the Medicare FSE theme!"
+msgstr ""
+
+#: functions.php:133
+msgid "Go to pro"
+msgstr ""
+
+#: functions.php:134
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:135
+msgid "Theme Information"
+msgstr ""
+
+#: functions.php:136
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:137
+msgid "Support?"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Hey captain looks like you are heading in wrong planet..."
+msgstr ""
+
+#: patterns/about-us.php:19
+msgid "12 years experience"
+msgstr ""
+
+#: patterns/about-us.php:23
+msgid "We Provide Best Treatment For Our Patient"
+msgstr ""
+
+#: patterns/about-us.php:27
+msgid ""
+"Varius sapien mauris fames class eu ridiculus augue pulvinar sociosqu, est "
+"tortor interdum aenean nam etiam elementum vulputate eros natoque, vivamus "
+"mattis facilisi pellentesque hac tempor erat hendrerit. Vehicula posuere "
+"vivamus ligula viverra at ac bibendum praesent platea, felis elementum nec "
+"mus habitasse class ad augue potenti."
+msgstr ""
+
+#: patterns/about-us.php:32
+msgid "View More"
+msgstr ""
+
+#: patterns/banner.php:13
+msgid "We Provide Total"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "Health Care Solution"
+msgstr ""
+
+#: patterns/banner.php:21
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit vivamus vehicula "
+"felis ridiculus risus, quisque magnis neque eget cursus lacus dignissim "
+"morbi dictumst sed accumsan, aliquam tincidunt inceptos ad feugiat euismod "
+"aenean orci urna enim sagittis."
+msgstr ""
+
+#: patterns/banner.php:35
+msgid "INFORMATIONS"
+msgstr ""
+
+#: patterns/banner.php:39 patterns/banner.php:59
+msgid "Urna ac gravida habitant phasellus lobortis montes sociosqu eros."
+msgstr ""
+
+#: patterns/banner.php:55
+msgid "MODERN TECH"
+msgstr ""
+
+#: patterns/footer.php:16
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit urna, habitasse "
+"vulputate id justo cum euismod est, tellus arcu tincidunt torquent a "
+"ullamcorper sapien. Molestie suspendisse purus massa nulla nascetur arcu, "
+"curabitur sed himenaeos ultrices enim facilisi nunc."
+msgstr ""
+
+#: patterns/footer.php:20
+msgid ""
+"Imperdiet habitant aliquam curabitur, sagittis facilisis vulputate class est "
+"auctor maecenas nunc cras velit."
+msgstr ""
+
+#: patterns/footer.php:26
+msgid "Recent Posts"
+msgstr ""
+
+#: patterns/footer.php:34
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Copyright @ 2023 | All Right Reserved | Theme By"
+msgstr ""
+
+#: patterns/footer.php:44
+msgid "Ascendoor"
+msgstr ""
+
+#: patterns/header.php:33
+msgid "+0800 2336 7811"
+msgstr ""
+
+#: patterns/header.php:37
+msgid "email@example.com"
+msgstr ""
+
+#: patterns/header.php:49
+msgid "Monday - Friday 8AM - 7PM"
+msgstr ""
+
+#: patterns/header.php:53
+msgid "Saturday and Sunday - CLOSED"
+msgstr ""
+
+#: patterns/recent-news.php:12
+msgid "Recent New"
+msgstr ""
+
+#: patterns/recent-news.php:16
+msgid "Latest Updates and News"
+msgstr ""
+
+#: patterns/recent-news.php:40
+msgid "View All"
+msgstr ""
+
+#: patterns/service.php:17
+msgid "EMERGENCY CARE"
+msgstr ""
+
+#: patterns/service.php:27
+msgid "QUALIFIED DOCTORS"
+msgstr ""
+
+#: patterns/service.php:37
+msgid "24HR SERVICE"
+msgstr ""
+
+#: patterns/service.php:47
+msgid "ONLINE SERVICE"
+msgstr ""
+
+#: patterns/sidebar.php:14
+msgid "Recent Post"
+msgstr ""
+
+#: patterns/sidebar.php:26
+msgid "Link With Us"
+msgstr ""
+
+#: patterns/team.php:20
+msgid "Introducing Our Team"
+msgstr ""
+
+#: patterns/team.php:24
+msgid "Great Passion For Healing"
+msgstr ""
+
+#: patterns/team.php:28
+msgid ""
+"Tristique ligula habitant pulvinar porttitor potenti primis morbi, eget "
+"ullamcorper dictumst tempus fames parturient sapien, porta velit ultricies "
+"vivamus molestie integer. Ut est semper feugiat taciti aliquam ultrices "
+"facilisi scelerisque sodales."
+msgstr ""
+
+#: patterns/team.php:34
+msgid "ANNA FRANKE"
+msgstr ""
+
+#: patterns/team.php:38
+msgid "Founder &amp; CEO"
+msgstr ""
+
+#: patterns/team.php:58
+msgid "PROFESSIONAL TEAM"
+msgstr ""
+
+#: patterns/team.php:62 patterns/team.php:82
+msgid ""
+"Sollicitudin hendrerit mattis risus volutpat, cursus tempor per praesent est "
+"vehicula molestie."
+msgstr ""
+
+#: patterns/team.php:78
+msgid "SERVICE &amp; TECHNOLOGY"
+msgstr ""
+
+#: patterns/team.php:101 patterns/team.php:121 patterns/team.php:141
+msgid "Chief Surgeon"
+msgstr ""
+
+#: patterns/team.php:105
+msgid "Bernice Ray"
+msgstr ""
+
+#: patterns/team.php:109 patterns/team.php:129 patterns/team.php:149
+msgid ""
+"auctor ullamcorper nostra sem tempus praesent vestibulum fames dui aliquet."
+msgstr ""
+
+#: patterns/team.php:125
+msgid "Larisaa Lanson"
+msgstr ""
+
+#: patterns/team.php:145
+msgid "Jason Bolton"
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "Our Testimonials"
+msgstr ""
+
+#: patterns/testimonial.php:16
+msgid "What Clients Say?"
+msgstr ""
+
+#: patterns/testimonial.php:29
+msgid "Jane Bonrnli"
+msgstr ""
+
+#: patterns/testimonial.php:33
+msgid "MANAGER"
+msgstr ""
+
+#: patterns/testimonial.php:39 patterns/testimonial.php:61
+msgid ""
+"Est vel ut arcu vestibulum nunc imperdiet convallis, per cursus pharetra "
+"magnis augue maecenas ullamcorper aenean, bibendum tellus curae feugiat "
+"montes at. Lobortis ridiculus hendrerit neque curabitur eu gravida ut."
+msgstr ""
+
+#: patterns/testimonial.php:51
+msgid "Zyan Mailine"
+msgstr ""
+
+#: patterns/testimonial.php:55
+msgid "CEO"
+msgstr ""
+
+#: patterns/why-choose-us.php:13
+msgid "Why Choose Us"
+msgstr ""
+
+#: patterns/why-choose-us.php:17
+msgid "Trusted by 10 Lakh Customers across 20+ Countries"
+msgstr ""
+
+#: patterns/why-choose-us.php:27
+msgid "Friendly Environment"
+msgstr ""
+
+#: patterns/why-choose-us.php:31 patterns/why-choose-us.php:47
+#: patterns/why-choose-us.php:61 patterns/why-choose-us.php:75
+msgid ""
+"Risus velit ut ac auctor placerat nisi volutpat pellentesque cras nullam "
+"dignissim, venenatis."
+msgstr ""
+
+#: patterns/why-choose-us.php:43
+msgid "24/Emergency"
+msgstr ""
+
+#: patterns/why-choose-us.php:57
+msgid "Quality Treatment"
+msgstr ""
+
+#: patterns/why-choose-us.php:71
+msgid "Advance Tech"
+msgstr ""
